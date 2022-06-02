@@ -2,7 +2,7 @@
 - 👀 I’m interested in software devlopment
 - 🌱 I’m currently learning c-programing,python
 - 💞️ I’m looking to collaborate on ...
-- 📫 How to reach me ...himanshu1sharma88@gmail.com
+- 📫 How to reach me himanshu1sharma88@gmail.com
 
 <!---
 ANSXX/ANSXX is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
