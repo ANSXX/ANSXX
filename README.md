@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @ANSXX
-- 👀 I’m interested in software devlopment
-- 🌱 I’m currently learning c-programing,python
+- 👀 I’m interested in software devlopment, web devlopment
+- 🌱 I’m currently learning c-programing,python,WEB DEV
 - 💞️ I’m looking to collaborate on ...
 - 📫 How to reach me himanshu1sharma88@gmail.com
 
