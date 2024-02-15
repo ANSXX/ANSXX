@@ -1,4 +1,4 @@
-<h2 align="center">Hi 👋! My name is Himanshu Sharma and I'm a B.Tech Student from Kolkata,WestBengal</h2>
+<h1 align="center">Hi 👋! My name is Himanshu</h1>
 
 ###
 
