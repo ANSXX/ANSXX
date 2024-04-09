@@ -26,7 +26,6 @@
 <a href="https://fb.com/https://www.facebook.com/himanshusharma212131/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg" alt="https://www.facebook.com/himanshusharma212131/" height="30" width="40" /></a>
 <a href="https://instagram.com/areehimanshu" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="areehimanshu" height="30" width="40" /></a>
 <a href="https://www.leetcode.com/ansxx" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/leet-code.svg" alt="ansxx" height="30" width="40" /></a>
-<a href="https://www.hackerearth.com/@ansxx" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/hackerearth.svg" alt="@ansxx" height="30" width="40" /></a>
 <a href="https://discord.gg/whyhimanshu" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/discord.svg" alt="whyhimanshu" height="30" width="40" /></a>
 </p>
 
