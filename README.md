@@ -33,7 +33,7 @@
 
 ###
 
-<img align="right" height="150" src="https://imgflip.com/gif/8m5edy"  />
+<img align="right" height="250px" src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExbWJnZmxmd3M3YmxtYnhrNW9lZTNvamo3NXdka2R3NTkzb2F4dmdwcyZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/704iRlAikGSnct1Kd4/giphy.gif"  />
 
 ###
 
@@ -60,12 +60,5 @@
 
 <br clear="both">
 
-<img src=".github\snake.yml" alt="Snake animation" />
-
-###
-
-<div align="center">
-  <img height="0" src=".github/boy.gif"  />
-</div>
 
 ###
