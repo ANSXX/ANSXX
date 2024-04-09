@@ -33,7 +33,7 @@
 
 ###
 
-<img align="right" height="150" src ="https://i.imgflip.com/65efzo.gif"/>
+<img align="right" height="150" src="https://imgflip.com/gif/8m5edy"  />
 
 ###
 
@@ -60,4 +60,12 @@
 
 <br clear="both">
 
-<img src="https://raw.githubusercontent.com/ANSXX/ANSXX/output/snake.svg" alt="Snake animation" />
+<img src=".github\snake.yml" alt="Snake animation" />
+
+###
+
+<div align="center">
+  <img height="0" src=".github/boy.gif"  />
+</div>
+
+###
