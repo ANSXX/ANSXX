@@ -33,7 +33,7 @@
 
 ###
 
-<img align="right" height="150" src ="https://imgflip.com/gif/8m5edy"/>
+<img align="right" height="150" src ="https://i.imgflip.com/65efzo.gif"/>
 
 ###
 
@@ -61,8 +61,3 @@
 <br clear="both">
 
 <img src="https://raw.githubusercontent.com/ANSXX/ANSXX/output/snake.svg" alt="Snake animation" />
-
-###
-
-
-###
