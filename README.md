@@ -9,7 +9,7 @@
 
 ###
 
-<div align="left">
+<div align="center">
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/c/c-original.svg" height="30" alt="c logo"  />
   <img width="12" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" height="30" alt="html5 logo"  />
@@ -31,13 +31,10 @@
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/spring/spring-original.svg" height="30" alt="spring logo"  />
 </div>
 
-###
+<img align="right" height="150px" src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExbXEzbzJ1aHY3ZXdvcGpnbWF6bG9ncmpqbTF1YmZ4bG8xbDVieG0wZiZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/ms6Q72hUV56hLidoln/source.gif" >
 
-<img align="right" height="250px" src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExbWJnZmxmd3M3YmxtYnhrNW9lZTNvamo3NXdka2R3NTkzb2F4dmdwcyZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/704iRlAikGSnct1Kd4/giphy.gif"  />
 
-###
-
-<div align="left">
+<div align="center">
   <a href="https://www.instagram.com/areehimanshu/" target="_blank">
     <img src="https://img.shields.io/static/v1?message=Instagram&logo=instagram&label=&color=E4405F&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="instagram logo"  />
   </a>
